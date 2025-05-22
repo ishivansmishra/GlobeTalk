@@ -42,7 +42,7 @@ Start the application:
 npm start
 ```
 
-Visit: [https://globe-talk-8v71.vercel.app/](https://globe-talk-8v71.vercel.app/))
+Visit: [https://globe-talk-8v71.vercel.app/](https://globe-talk-8v71.vercel.app/)
 
 ## 🧠 How It Works
 
@@ -51,9 +51,6 @@ Visit: [https://globe-talk-8v71.vercel.app/](https://globe-talk-8v71.vercel.app/
 3. Server translates the message using the translation API.  
 4. Translated message is sent to the recipient in their chosen language.  
 
-## 📸 Screenshots
-
-> Add screenshots or screen recordings of the app UI here. Upload them to the repo or use external links.
 
 ## 🙋‍♂️ Contributing
 
