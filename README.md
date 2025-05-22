@@ -2,8 +2,7 @@
 
 Welcome to **GlobeTalk**, a real-time multilingual chat application designed to break down language barriers and connect people from all around the world. Whether you're chatting with a friend across the street or someone across the globe, GlobeTalk helps you communicate effortlessly in your own language.
 
-![GlobeTalk Screenshot](https://github.com/ishivansmishra/GlobeTalk/assets/your-screenshot.png)
-
+Visit: [https://globe-talk-8v71.vercel.app/](https://globe-talk-8v71.vercel.app/)
 ## 🚀 Features
 
 - 🌍 Real-time messaging  
@@ -42,7 +41,7 @@ Start the application:
 npm start
 ```
 
-Visit: [https://globe-talk-8v71.vercel.app/](https://globe-talk-8v71.vercel.app/)
+
 
 ## 🧠 How It Works
 
